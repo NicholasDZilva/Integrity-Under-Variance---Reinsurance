@@ -1,0 +1,29 @@
+License Notice — Integrity Under Variance (IUV) Framework
+This repository contains Layer 1 of the Integrity Under Variance (IUV) Framework, authored by Nicholas D’Zilva.
+Layer 1 consists of conceptual architecture, documentation, explanatory materials, and non-executable templates intended for reference, evaluation, and academic or strategic discussion.
+Layer 1 materials are licensed under the Creative Commons Attribution–NoDerivatives 4.0 International (CC BY-ND 4.0) license, as specified in LICENSE.txt.
+Scope Clarification
+The following components are explicitly excluded from this repository and are not licensed under CC BY-ND 4.0:
+Executable governance logic
+Enforcement engines
+Simulation and stress-testing systems
+Calibration constants and thresholds
+Constraint definitions and invariants
+Deployment verification workflows
+Audit evidence pipelines
+Hash-signed or versioned operational artifacts
+These components constitute Layers 2 and 3 of the IUV Framework and remain proprietary works.
+Use Restrictions
+This repository does not grant permission to:
+Represent governance enforcement based solely on Layer 1 materials
+Deploy or operationalize integrity constraints
+Certify systems, decisions, or organizations as governed under IUV
+Reconstruct or reverse-engineer enforcement mechanisms
+Substitute documentation for executable integrity enforcement in regulated contexts
+Any commercial use, institutional deployment, or representation of enforcement requires a separate written license.
+Attribution
+Authorship and prior art for the Integrity Under Variance (IUV) Framework are asserted by:
+Nicholas D’Zilva
+Statement of Intent
+Layer 1 exists to establish conceptual clarity, architectural grounding, and public provenance.
+Integrity enforcement, verification, and institutional accountability require licensed operational layers.
